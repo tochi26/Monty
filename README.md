@@ -106,5 +106,5 @@ L3: unknown instruction pcx
 ### Return value
 When there is no errors, `monty` returns `0`. Otherwise, returns `1`
 
-## Authors
-* Willochs Ojigbo: [GitHub](https://github.com/Willochs316)
+## Author
+* Tochukwu Nzewi: [GitHub](https://github.com/tochi26)
